@@ -1,0 +1,116 @@
+body {
+    /* background-color: black; */
+    background-image: url("\netflix.jpg");
+    background-size: cover;
+    
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 40px;
+
+}
+p{
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+}
+#navbar{
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    background-color: rgba(236, 6, 6, 0.678);
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+a{font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+    
+#search{
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: 2px solid black;
+    border-radius: 25px;
+    
+}
+button{
+    background-color: rgb(161, 241, 11);
+    color: rgb(240, 11, 11);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}                              
+#selection{
+    background-color: rgb(161, 241, 11);
+        color: white;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#footer{
+    background-color: rgb(207, 12, 12);
+        display: inline-block;
+        padding: 20px 0;
+        margin-top: 100px;
+        position: fixed;
+        bottom: 0;
+        border: 2px solid black;
+        border-radius: 20px;
+}
+
+#footerx{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#footer1 {
+    background-color: none;
+    width: 200px;
+    margin-right: 90px;
+    margin-left: 15px;
+
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+#footer2 {
+    background-color: none;
+    width: 200px;
+    margin-right: 90px;
+    margin-left: 15px;
+
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+#footer3 {
+    background-color: none;
+    width: 200px;
+    margin-right: 100px;
+    margin-left: 15px;
+
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+#footer4 {
+    background-color: none;
+    width: 200px;
+    margin-right: 100px;
+    margin-left: 15px;
+
+    margin-bottom: 50px;
+    display: inline-block;
+}

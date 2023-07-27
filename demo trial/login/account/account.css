@@ -1,0 +1,33 @@
+body{
+    background-color: #f7ede2;
+    text-transform: capitalize;
+}
+#details{
+    background-color: #7209b7;
+    color: #001427;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: large;
+    display: inline-block;
+}
+#boxes{
+    background-color: #f15bb5;
+    color: #001427;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+}

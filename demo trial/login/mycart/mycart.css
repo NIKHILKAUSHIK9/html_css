@@ -1,0 +1,21 @@
+body{
+    background-color: #ef233c;
+    text-align: center;
+    text-transform: capitalize;
+
+
+}
+#mycart{
+    background-color: #ff006e;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 650px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

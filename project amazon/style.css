@@ -7,6 +7,7 @@
 a{
     text-decoration: none;
     color: aliceblue;
+    margin-left: 15px;
 }
 .navbar{
     height: 60px;
@@ -110,4 +111,15 @@ span{
     height: 40px;
     background-color: #333d4b;
     color: aliceblue;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-options{
+    width: 70%;
+    font-size: 1rem;
+    display: inline;
+}
+.panel-deals{
+    
+    font-weight: 600;
 }

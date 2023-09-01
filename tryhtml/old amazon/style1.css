@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+body{
+    background-color: whitesmoke;
+}
+#navbar{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    display: flexbox;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 50px 0 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+
+}
+#one{
+    color:rgb(245, 241, 14);
+}
+a{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    margin-right: 60px;
+}
+#button{
+    background-color: wheat;
+    border: none;
+    color: black;
+    
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 70px;
+}
+#search{
+    color: #000;
+}
+#loginform{
+    background-color: brown;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    margin-right: 20px;
+
+}    
+#signupform{
+    background-color: brown;
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+}
+
+#footer{
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 20px 0;
+    margin-top: 100px;
+    position: relative;
+    bottom: 0;
+    border: 2px solid black;
+    border-radius: 20px;
+ }
+
+ #footerx {
+     display: flex;
+     justify-content: space-evenly;
+
+ }
+#footer1{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-right: 90px;
+    margin-left: 15px;
+    
+    margin-bottom: 50px;
+    display: inline-block;
+}
+#footer2{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-right: 90px;
+    margin-left: 15px;
+    
+    margin-bottom: 50px;
+    display: inline-block;
+}
+#footer3{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-right: 100px;
+    margin-left: 15px;
+    
+    margin-bottom: 50px;
+    display: inline-block;
+}
+#footer4{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    margin-right: 100px;
+    margin-left: 15px;
+    
+    margin-bottom: 50px;
+    display: inline-block;
+}
+pre{
+    text-align: center;
+}
+#content{
+    background-color: paleturquoise;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 50px 0 50px;
+    
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#box{
+    background-color: rgb(0, 0, 0);
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+    
+}
